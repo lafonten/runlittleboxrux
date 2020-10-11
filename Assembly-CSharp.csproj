@@ -63,11 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\sceneControler.cs" />
     <Compile Include="Assets\Scripts\blockMoveControler.cs" />
     <Compile Include="Assets\Scripts\instaiterControler.cs" />
-    <Compile Include="Assets\Scripts\playerControler.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\sceneControler.cs" />
+    <Compile Include="Assets\Scripts\playerControler.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/umuta/OneDrive/Masaüstü/Unity Projeleri/RunLittleBoxRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
